@@ -1,4 +1,5 @@
 flask
+certifi
 python-dotenv
 pymongo[srv]
 gunicorn
